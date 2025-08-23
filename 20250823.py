@@ -1,4 +1,4 @@
 result=0
 for value in range(1,11):
-    result=result+value
+    result+=value
 print(result)
