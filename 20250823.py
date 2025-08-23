@@ -1,4 +1,6 @@
-result=0
-for value in range(1,11):
-    result+=value
-print(result)
+def my_sum(start_num,end_num):
+    return sum(range(start_num,end_num)
+               
+
+
+
