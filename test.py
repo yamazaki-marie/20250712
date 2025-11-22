@@ -4,4 +4,3 @@ class Cat:
     def print_name(self): 
         print(self.name)           
 c=Cat()
-c.print_name()
